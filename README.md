@@ -1,4 +1,4 @@
 
 
 # <img src="moodam.svg" height=64> moodam
-An easy package manager for my FOSS projects.
+A mini-tutorial how to install my FOSS programs for most popular GNU/Linux distibutions.
